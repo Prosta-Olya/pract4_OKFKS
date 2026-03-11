@@ -1,0 +1,6 @@
+C:\Users\st310-11\Desktop\pract4_OKFKS\bin\Debug\pract4_OKFKS.dll
+C:\Users\st310-11\Desktop\pract4_OKFKS\bin\Debug\pract4_OKFKS.pdb
+C:\Users\st310-11\Desktop\pract4_OKFKS\obj\Debug\pract4_OKFKS.csproj.AssemblyReference.cache
+C:\Users\st310-11\Desktop\pract4_OKFKS\obj\Debug\pract4_OKFKS.csproj.CoreCompileInputs.cache
+C:\Users\st310-11\Desktop\pract4_OKFKS\obj\Debug\pract4_OKFKS.dll
+C:\Users\st310-11\Desktop\pract4_OKFKS\obj\Debug\pract4_OKFKS.pdb
